@@ -1,5 +1,5 @@
 # corpusdemo
-This is a sample of our corpus to support our paper submitted at INTERSPEECH 2019. Due to sponsor restrictionk, we cannot disclose our full corpus.
+This is a sample of our corpus to support our paper submitted at INTERSPEECH 2019. Due to sponsor restriction, we cannot disclose our full corpus.
 
 Inside the "audio_data" folder, all audio files are organized speaker-wise: i.e., all audio files of the same speaker are inside the same folder.
 
